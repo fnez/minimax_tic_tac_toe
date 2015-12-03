@@ -1,0 +1,9 @@
+	
+
+// Instructions:
+	// allow for a human player
+	// play against a computer player
+	// have some user interface
+	// never lose and win whenever possible
+
+	
